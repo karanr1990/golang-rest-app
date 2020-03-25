@@ -1,7 +1,7 @@
 package handlers
 
 import (
-	"github.ibm.com/Quest-CIO/go-micro-app/data"
+	"github.com/Quest-CIO/go-micro-app/data"
 	"log"
 	"net/http"
 	"regexp"
