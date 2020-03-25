@@ -2,7 +2,7 @@ package main
 
 import (
 	"context"
-	"github.ibm.com/Quest-CIO/go-micro-app/handlers"
+	"github.com/Quest-CIO/go-micro-app/handlers"
 	"log"
 	"net/http"
 	"os"
